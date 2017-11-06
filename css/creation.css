@@ -1,0 +1,16 @@
+.lTitre {
+  color: #f54123;
+  font-family: 'Saira Semi Condensed', sans-serif;
+  font-size: 2em;
+}
+
+.bcrVeille {
+  font-family: 'Saira Semi Condensed', sans-serif;
+  font-size: 1em;
+}
+.bcrVeille:hover {
+  color: #f54123;
+  background: #0b3536;
+
+
+}

@@ -1,0 +1,32 @@
+body {
+  background: url("../images/first-million-dollars.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+@font-face {
+  font-family: 'hacked';
+  src: url('../fonts/HACKED.ttf');
+}
+/* logo mos*/
+.logomos {
+margin-top: 10%;
+opacity: 0.8;
+border-radius: 50%;
+}
+
+
+/*Bouton page principale*/
+.bhome {
+  margin-top: 5%;
+  color: #0b3536;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.bhome:hover {
+  color: black;
+  border: solid 1px #f54123;
+
+}

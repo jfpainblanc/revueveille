@@ -1,0 +1,86 @@
+/*Titre gauche*/
+.navbar-default .navbar-brand {
+  font-family: 'hacked', serif;
+  color: black;
+  font-weight: bold;
+  font-size: 2.5em;
+  padding-bottom: 2%;
+}
+
+.navbar-default .navbar-brand .titleE {
+  color: orange;
+  font-family: 'Roboto', sans-serif;
+}
+
+/*Barre de navigation*/
+.navbar-default {
+  opacity: 0.8;
+  background: #e5e7de;
+  border-bottom: solid 2px orange;
+}
+
+/*Barre de navigation gauche*/
+.navbar-default .navbar-nav>li>a {
+  margin: 0 5% 0 5%;
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.1em;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: black;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  color: white;
+  background: black;
+  text-decoration-color: orange;
+}
+
+.navbar-default .navbar-brand:hover {
+  color: orange;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus {
+  background: #0b3536;
+  color: #f54123;
+}
+
+.navbar-default .navbar-nav>.active>a:hover {
+  color: #f54123;
+}
+
+/*Barre de navigation droite (Signin login)*/
+#signlog>button:hover {
+  color: white;
+  background: black;
+}
+
+.signTxt, .logTxt {
+  margin-left: 10%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.1em;
+}
+
+/* Modal SignUp and login */
+
+.modal-title {
+  background: black;
+  color: #f54123;
+  font-family: 'hacked', sans-serif;
+  font-weight: bold;
+  padding-left: 5%;
+  border-radius: 5px;
+}
+
+.bModal:hover {
+  background: #0b3536;
+  color: #f54123;
+}
+
+.modal-header .close {
+  color: #f54123;
+}
+
+.modal-header .close {
+  opacity: 1;
+}
