@@ -7,7 +7,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#"><span class="titleT">T</span>ECH<span class="titleE">*</span><span class="titleV">V</span>EILLE</a>
+      <a class="navbar-brand" href="#">La Revue de Veille</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->

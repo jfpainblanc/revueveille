@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/master.css">
   <link rel="stylesheet" href="css/menu.css">
-  <title>Tech'Veille</title>
+  <title>La Revue de Veille</title>
 </head>
 
 <body>
